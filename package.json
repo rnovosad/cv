@@ -2,7 +2,7 @@
   "name": "binary_studio_task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/rnovosad/binary_studio_task",
+  "homepage": "https://rnovosad.github.io/binary_studio_task/",
   "dependencies": {
     "gh-pages": "2.0.1",
     "react": "^16.8.6",
