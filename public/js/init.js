@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 ------------------------------------------------------ */
 
   setTimeout(function() {
-    $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' })
+    $('h1.responsive-headline').fitText(1, { minFontSize: '30px', maxFontSize: '70px' })
   }, 100)
 
   /*----------------------------------------------------*/
